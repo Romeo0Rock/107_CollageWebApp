@@ -1,0 +1,46 @@
+.copy_right_footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: darkblue;
+  background-color: orange;
+  line-height: 3;
+}
+
+h1{
+font-style: italic;
+font-weight: bold;
+font-family: cursive;
+}      
+
+body{
+  background:  lightcoral;
+}
+
+h4{
+  color: lightgreen;
+}
+
+#camera{
+  height: 400px;
+  width: 500px;
+  border: 1px solid grey;
+}
+
+img:hover{
+border-radius: 140px;
+box-shadow: 0 6px 8px rgba(31, 29, 29, 0.2);
+}
+
+img{
+  width: 37%;
+  border-radius: 4px;
+  padding: 10px;
+  box-shadow: 0 6px 8px 0px color rgb(171, 68, 171)
+}
+
+.column{
+  display: inline;
+  padding: 10px;
+}
